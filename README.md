@@ -25,6 +25,8 @@ sudo apt-get install libsdl2-dev libsdl2-mixer-dev
 sudo apt install cmake -y
 ```
 
+#### in the file main.cpp change line 16 to your path to the assets folder
+
 ### Run
 
 ```bash
